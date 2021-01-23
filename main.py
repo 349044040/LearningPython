@@ -1,5 +1,5 @@
 print ("welcome to my greeting program")
 output = input ("whats your name! ")
-print(output)
-print("hi",output,",nice to meet you")
 
+print("hi",output,",nice to meet you")
+input("Press any key to exit")
